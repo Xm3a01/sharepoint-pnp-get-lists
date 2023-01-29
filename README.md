@@ -1,4 +1,4 @@
-## Minimal Path to Awesome
+## Sharepoint sev 
 
 - Clone this repository
 - Ensure that you are at the solution folder
